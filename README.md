@@ -1,4 +1,4 @@
-# SageWoo - The ultimate boilerplate
+# Smart Sage - The ultimate boilerplate
 A Sage fork ready for Woocommerce, with Bootstrap and automation in common tasks. Stop being a robot by customising common templates again & again and make your life easier with this boilerplate.
 
 
